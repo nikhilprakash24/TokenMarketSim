@@ -16,6 +16,7 @@ TokenMarketSim is a comprehensive simulation toolkit built to model the behavior
 ---
 
 **Introduction** 
+
 Welcome to **TokenMarketSim** , the ultimate tool suite for simulating and analyzing token dynamics within Automated Market Makers (AMMs) on decentralized exchanges. In the wild west of DeFi, where markets are unpredictable and liquidity is king, understanding the impact of trades on token prices is both an art and a science. TokenMarketSim is your brush and canvas, allowing you to paint detailed scenarios and see how the story unfolds.
 Why settle for guesswork when you can simulate your strategies, understand the ripple effects of your trades, and optimize your moves like a pro? Whether you're a trader trying to predict the next big price swing, a liquidity provider looking to maximize returns, or a researcher aiming to crack the code of decentralized markets, TokenMarketSim is designed with you in mind. With a focus on the crucial yet often neglected LP percentage, our tool suite provides insights that standard models overlook, offering you the edge in a competitive and rapidly evolving landscape.
 
