@@ -1,4 +1,3 @@
----
 
 **TokenMarketSim - The Token and AMM (DEX) Simulation Tool Suite** **Executive Summary** 
 TokenMarketSim is a pioneering Python-based tool suite designed to simulate and analyze the intricate dynamics of tokens within Automated Market Makers (AMMs), particularly in decentralized exchanges (DEXs). By focusing on the often-overlooked Liquidity Pool (LP) percentage, TokenMarketSim offers unparalleled insights into price volatility, trade impact, and market cap changes, filling a critical gap in the existing toolkit landscape. The suite empowers traders, liquidity providers, and researchers with granular control over simulations, enabling precise analysis and strategic decision-making in the fast-paced world of decentralized finance (DeFi).
