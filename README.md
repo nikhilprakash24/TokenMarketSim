@@ -2,14 +2,20 @@
 **TokenMarketSim - The Token and AMM (DEX) Simulation Tool Suite**
 
 **Executive Summary** 
+
 TokenMarketSim is a pioneering Python-based tool suite designed to simulate and analyze the intricate dynamics of tokens within Automated Market Makers (AMMs), particularly in decentralized exchanges (DEXs). By focusing on the often-overlooked Liquidity Pool (LP) percentage, TokenMarketSim offers unparalleled insights into price volatility, trade impact, and market cap changes, filling a critical gap in the existing toolkit landscape. The suite empowers traders, liquidity providers, and researchers with granular control over simulations, enabling precise analysis and strategic decision-making in the fast-paced world of decentralized finance (DeFi).
+
 **Layman's Summary** 
+
 TokenMarketSim is like a crystal ball for the world of cryptocurrency trading on decentralized platforms. It helps you see what might happen to a token's price if people start buying or selling in large amounts. The tool is particularly useful because it focuses on something crucial: how much of a token is sitting in the liquidity pool. This is important because the more tokens in the pool, the less the price changes when people trade. With TokenMarketSim, you can simulate all sorts of trading scenarios, helping you make better decisions in the unpredictable world of crypto.
-**Technical Summary** TokenMarketSim is a comprehensive simulation toolkit built to model the behavior of tokens within AMMs on decentralized exchanges. It leverages the constant product formula, $x \times y = k$, to simulate how trades affect token prices and liquidity. The suite provides granular control over key parameters, such as transaction step size and LP percentage, allowing users to simulate complex trading scenarios with high precision. By integrating core AMM logic with advanced market cap simulations and detailed buy/sell operation analyses, TokenMarketSim is a powerful tool for anyone needing to understand the intricate mechanics of token pricing and liquidity management in DeFi environments.
+
+**Technical Summary**
+TokenMarketSim is a comprehensive simulation toolkit built to model the behavior of tokens within AMMs on decentralized exchanges. It leverages the constant product formula, $x \times y = k$, to simulate how trades affect token prices and liquidity. The suite provides granular control over key parameters, such as transaction step size and LP percentage, allowing users to simulate complex trading scenarios with high precision. By integrating core AMM logic with advanced market cap simulations and detailed buy/sell operation analyses, TokenMarketSim is a powerful tool for anyone needing to understand the intricate mechanics of token pricing and liquidity management in DeFi environments.
 
 ---
 
-**Introduction** Welcome to **TokenMarketSim** , the ultimate tool suite for simulating and analyzing token dynamics within Automated Market Makers (AMMs) on decentralized exchanges. In the wild west of DeFi, where markets are unpredictable and liquidity is king, understanding the impact of trades on token prices is both an art and a science. TokenMarketSim is your brush and canvas, allowing you to paint detailed scenarios and see how the story unfolds.
+**Introduction** 
+Welcome to **TokenMarketSim** , the ultimate tool suite for simulating and analyzing token dynamics within Automated Market Makers (AMMs) on decentralized exchanges. In the wild west of DeFi, where markets are unpredictable and liquidity is king, understanding the impact of trades on token prices is both an art and a science. TokenMarketSim is your brush and canvas, allowing you to paint detailed scenarios and see how the story unfolds.
 Why settle for guesswork when you can simulate your strategies, understand the ripple effects of your trades, and optimize your moves like a pro? Whether you're a trader trying to predict the next big price swing, a liquidity provider looking to maximize returns, or a researcher aiming to crack the code of decentralized markets, TokenMarketSim is designed with you in mind. With a focus on the crucial yet often neglected LP percentage, our tool suite provides insights that standard models overlook, offering you the edge in a competitive and rapidly evolving landscape.
 
 So, put on your scientist's hat—or your cowboy boots—and let's dive into the numbers with TokenMarketSim!
@@ -322,7 +328,7 @@ This project is licensed under the MIT License. For more details, see the LICENS
 
 ---
 
-**Contact** For any questions or inquiries, feel free to reach out at [yourname@yourdomain.com]() . We're always happy to help and discuss potential collaborations!
+**Contact** For any questions or inquiries, feel free to reach out at [blockislife24@gmail.com]() . We're always happy to help and discuss potential collaborations!
 
 ---
 
