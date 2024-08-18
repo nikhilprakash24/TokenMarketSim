@@ -11,6 +11,7 @@ TokenMarketSim is a pioneering Python-based tool suite designed to simulate and 
 TokenMarketSim is like a crystal ball for the world of cryptocurrency trading on decentralized platforms. It helps you see what might happen to a token's price if people start buying or selling in large amounts. The tool is particularly useful because it focuses on something crucial: how much of a token is sitting in the liquidity pool. This is important because the more tokens in the pool, the less the price changes when people trade. With TokenMarketSim, you can simulate all sorts of trading scenarios, helping you make better decisions in the unpredictable world of crypto.
 
 **Technical Summary**
+
 TokenMarketSim is a comprehensive simulation toolkit built to model the behavior of tokens within AMMs on decentralized exchanges. It leverages the constant product formula, $x \times y = k$, to simulate how trades affect token prices and liquidity. The suite provides granular control over key parameters, such as transaction step size and LP percentage, allowing users to simulate complex trading scenarios with high precision. By integrating core AMM logic with advanced market cap simulations and detailed buy/sell operation analyses, TokenMarketSim is a powerful tool for anyone needing to understand the intricate mechanics of token pricing and liquidity management in DeFi environments.
 
 ---
