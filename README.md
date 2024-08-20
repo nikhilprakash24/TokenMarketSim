@@ -1,5 +1,5 @@
 
-**TokenMarketSim - The Token and AMM (DEX) Simulation Tool Suite**
+**TokenMarketSim - The Token and AMM (DEX) Simulation Tool Suite and Research Analysis.**
 ==============
 
 **Executive Summary** 
