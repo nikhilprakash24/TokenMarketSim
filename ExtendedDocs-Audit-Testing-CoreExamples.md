@@ -1,4 +1,6 @@
 **Comprehensive Formal Audit Documentation and Unit Testing of AMM Simulation Toolkit** 
+
+
 This document provides an exhaustive audit of the AMM Simulation Toolkit, detailing the results of unit tests across various scenarios. These tests validate the accuracy of the toolkit in simulating market cap changes, Liquidity Pool (LP) dynamics, token prices, and the required capital to achieve specific market cap adjustments. The documentation highlights the necessity of granular step size simulation for accurate modeling, especially when approaching or exceeding the theoretical price increase limits of an Automated Market Maker (AMM).
 **Test Parameters** **Assumptions:**  
 - **Total Supply** : 10,000,000 tokens
